@@ -1,13 +1,6 @@
 import bmi_calculator as bmi
 import workouts as workout
 
-"""
-Password Manger
-Project 2
-SHADO MAMOKETE NKOSI 
-L42
-"""
-
 def main():
 
     name = bmi.get_name()
